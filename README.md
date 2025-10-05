@@ -34,23 +34,15 @@ It encourages learners, creators, and dreamers to view data as a narrative — o
 
 ## 🧰 Tools & Technologies
 - **NASA Open Data** (Hubble & JWST archives)  
-- **Python (optional data processing)**  
 - **Google Docs / Canva** for visual storytelling  
-- **Figma** for layout design  
-- **Presentation Format:** PowerPoint / PDF  
-
----
-
-## 📸 Visuals & Demo
-🔗 **Project Presentation:** [Add Google Drive or Slides link here]  
-🎥 **Video Demo (if any):** [Add YouTube or other link here]  
+- **Figma&canva** for layout design  
+- **Presentation Format:**Mp4 / PDF  
 
 ---
 
 ## 👩‍🚀 Team & Contributions
 - **Thameem T M** – Concept, storytelling, data selection, and presentation design  
-*(Add other team members here if applicable)*  
-
+- **Mohammed Sinan A** – Concept, storytelling, data selection, and presentation design
 ---
 
 ## 📚 Data Source
