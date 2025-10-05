@@ -36,7 +36,7 @@ It encourages learners, creators, and dreamers to view data as a narrative — o
 - **NASA Open Data** (Hubble & JWST archives)  
 - **Google Docs / Canva** for visual storytelling  
 - **Figma&canva** for layout design  
-- **Presentation Format:**Mp4 / PDF  
+- **Presentation Format** Mp4 / PDF  
 
 ---
 
